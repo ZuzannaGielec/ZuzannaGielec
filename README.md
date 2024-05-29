@@ -15,6 +15,9 @@ I am ambitious, eager to learn, and thrive in team environments. I am excited to
 
 - <b>Deep Learning Models</b>
   - [Number Recognition on SVHN Dataset](https://github.com/ZuzannaGielec/Street-View-House-Numbers-SVHN/tree/main)
+  
+- <b>Music Genre Classification</b>
+  - [Various Machine Learning models on GTZAN dataset](https://github.com/ZuzannaGielec/Music-Genre-Recognition/tree/main)
 
 <h2> 📈 Data Visualization Projects:</h2>
 
