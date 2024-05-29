@@ -13,6 +13,12 @@ I am ambitious, eager to learn, and thrive in team environments. I am excited to
 - <b>Analyzing Heart Problems with Spark</b>
   - [Machine Learning in Spark](https://github.com/ZuzannaGielec/Heart-Problems-Analysis)
 
+<h2> 📈 Data Visualization Projects:</h2>
+
+- <b>Bizkaia Elections Data Analysis</b>
+  - [Data visualization with ggplot](https://github.com/ZuzannaGielec/Data-Visualization)
+
+
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="ZuzannaGielec | LinkedIn" width="92px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />][linkedin]
