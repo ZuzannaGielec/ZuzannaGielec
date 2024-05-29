@@ -10,7 +10,7 @@ I am ambitious, eager to learn, and thrive in team environments. I am excited to
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Analyzing Heart Problems with Spark</b>
+- <b>Analyzing Heart Problems</b>
   - [Machine Learning in Spark](https://github.com/ZuzannaGielec/Heart-Problems-Analysis)
 
 - <b>Deep Learning Models</b>
