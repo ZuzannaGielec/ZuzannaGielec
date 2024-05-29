@@ -15,6 +15,6 @@ I am ambitious, eager to learn, and thrive in team environments. I am excited to
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="ZuzannaGielec | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="ZuzannaGielec | LinkedIn" width="92px" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/zuzanna-gielec-166654265
