@@ -2,11 +2,11 @@
 
 <h2>🙋🏽‍♀️ About Me</h2> 
 
-<p><b>I am a Modeling and Data Science student with a passion for data analysis and machine learning. Although I don't have formal work experience, I have gained practical skills through tutoring Mathematics and English, and actively participating in orienteering club activities.
+<p><b>I hold a BEng in Modelling and Data Science and am currently pursuing an MSc in Human-Computer Interaction at Lodz University of Technology. My interests include data analysis, reporting, machine learning and designing digital solutions around users’ needs.
 
-My technical skills include a deep understanding of Excel and Python, along with basic knowledge of C, R, and SQL Server. Throughout my studies, I've engaged in diverse projects, some of which are showcased here.
+I completed a one-year internship in Concentration Risk Management at BNP Paribas Bank Polska, where I used SQL Server, MySQL, Excel and VBA to automate quarterly concentration-risk reporting and prepare monthly reports on risk limits. My academic projects have involved data preparation, analysis, modelling and visualisation using tools such as Python, Spark and R. Selected projects are available in my repositories.
 
-I am ambitious, eager to learn, and thrive in team environments. I am excited to take on challenges in data analysis and machine learning, and I am looking for opportunities to gain hands-on experience in the field I am passionate about.</b></p>
+Outside my studies and work, I tutor mathematics and English and have trained in orienteering for 12 years. I have represented the national team and won medals at Polish Championships..</b></p>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
