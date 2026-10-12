@@ -6,7 +6,7 @@
 
 I completed a one-year internship in Concentration Risk Management at BNP Paribas Bank Polska, where I used SQL Server, MySQL, Excel and VBA to automate quarterly concentration-risk reporting and prepare monthly reports on risk limits. My academic projects have involved data preparation, analysis, modelling and visualisation using tools such as Python, Spark and R. Selected projects are available in my repositories.
 
-Outside my studies and work, I tutor mathematics and English and have trained in orienteering for 12 years. I have represented the national team and won medals at Polish Championships..</b></p>
+Outside my studies and work, I tutor mathematics and English and have trained orienteering for 12 years. I have represented the national team and won medals at Polish Championships..</b></p>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
